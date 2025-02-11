@@ -1,0 +1,6 @@
+FileVersion:2
+Type:Dynamic
+Guid:D26499AC-4C0B-F248-92E9-9BADE80C3B8B
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+(BP_PlayerControlle) AND (Path:'/All/Game/FirstPerson/Blueprints'...)
