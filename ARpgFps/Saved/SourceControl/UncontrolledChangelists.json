@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/ARpgFps/Characters/MainCharacter/ABP_ARPG_FirstPerson.uasset",
 				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/ARpgFps/Characters/MainCharacter/BP_ARPGFirstPersonCharacter.uasset",
 				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/ARpgFps/Characters/MainCharacter/ABPARPGFirstPersonCharacter.uasset",
 				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/FirstPersonArms/Animations/FP_Land.uasset",
@@ -17,6 +16,9 @@
 				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/FirstPersonArms/Animations/FP_Jump.uasset",
 				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/FirstPersonArms/Animations/FP_Rifle_Idle.uasset",
 				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/ARpgFps/Characters/MainCharacter/ABP_ARPGFirstPersonCharacter.uasset",
+				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/ARpgFps/Weapons/Sword/BP_Sword.uasset",
+				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/Fab/Basic_Metal_Sword/NewAnimInstance.uasset",
+				"C:/Users/Nghia/Documents/Unreal Projects/3D-RPG-Game/ARpgFps/Content/ARpgFps/Characters/MainCharacter/ABP_ARPG_FirstPerson.uasset",
 				"C:/Users/Nghia/Documents/Unreal Projects/ARpgFps/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Nghia/Documents/Unreal Projects/ARpgFps/Content/ARpgFps/FrameWork/Game_Mode.uasset",
 				"C:/Users/Nghia/Documents/Unreal Projects/ARpgFps/Content/FPWeapon/sci-fi-sword/Blade_badge.uasset",
