@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /ARpgFps/Content/ParagonMinions
+/ARpgFps/Content/__ExternalActors__/ScifiJungle
+/ARpgFps/Content/ScifiJungle
+ARpgFps/Binaries/Win64/ARpgFps-Win64-Shipping.exp
+ARpgFps/Binaries/Win64/ARpgFps-Win64-Shipping.pdb
+ARpgFps/Saved/StagedBuilds/Windows/ARpgFps/Content/Paks/ARpgFps-Windows.ucas

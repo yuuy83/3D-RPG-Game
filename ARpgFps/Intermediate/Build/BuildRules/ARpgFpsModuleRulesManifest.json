@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Nghia\\Documents\\Unreal Projects\\3D-RPG-Game\\ARpgFps\\Intermediate\\Source\\ARpgFps.Build.cs",
+		"C:\\Users\\Nghia\\Documents\\Unreal Projects\\3D-RPG-Game\\ARpgFps\\Intermediate\\Source\\ARpgFps.Target.cs",
+		"C:\\Users\\Nghia\\Documents\\Unreal Projects\\3D-RPG-Game\\ARpgFps\\Intermediate\\Source\\ARpgFpsClient.Target.cs",
+		"C:\\Users\\Nghia\\Documents\\Unreal Projects\\3D-RPG-Game\\ARpgFps\\Intermediate\\Source\\ARpgFpsEditor.Target.cs",
+		"C:\\Users\\Nghia\\Documents\\Unreal Projects\\3D-RPG-Game\\ARpgFps\\Intermediate\\Source\\ARpgFpsServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

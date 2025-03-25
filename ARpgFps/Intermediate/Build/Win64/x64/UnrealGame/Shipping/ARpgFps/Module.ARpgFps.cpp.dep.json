@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nghia\\documents\\unreal projects\\3d-rpg-game\\arpgfps\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\arpgfps\\module.arpgfps.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nghia\\documents\\unreal projects\\3d-rpg-game\\arpgfps\\intermediate\\build\\win64\\x64\\arpgfps\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nghia\\documents\\unreal projects\\3d-rpg-game\\arpgfps\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\arpgfps\\definitions.arpgfps.h",
+            "c:\\users\\nghia\\documents\\unreal projects\\3d-rpg-game\\arpgfps\\intermediate\\source\\arpgfps.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

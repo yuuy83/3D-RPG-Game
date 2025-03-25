@@ -1,0 +1,853 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "5D42ED06B8BC9BD53B8B077948BBFE3CE7400312",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "9BE1D709D26204CC76E0A819FEF68326CE7A038B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F172AD0A24BD8E89AA44C083D44534A9DD3DD300",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D0688F0D32DEDBC1BC75E19154E46750EB9D548A",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "EEAD3B104A9473585B8F3E1A9B09D465BB51FAFA",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E3F642125A067F547D973ADD81F9AEF426F4449F",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialKnob"
+			]
+		},
+		{
+			"ShaderMapHash": "17F1DE12754FA8297123791F3E24C350AE312219",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "50489613218BA024AC7F743E0E237A56911CD25D",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "B496EC1793BCA6BB4E90A046BFD72CE8FEB590EA",
+			"Assets": [
+				"/Game/XANDRA/Characters/_Master/Materials/Skin/M_Skin_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "923B801D71CA7461BB9D433C0F3B124BAF9988EA",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "CCEE051E082AC789CFF8E10D6F26D0D6ADC9BD03",
+			"Assets": [
+				"/Game/XANDRA/Characters/_Master/Materials/Clothing/Materials/M_ClothingSimple"
+			]
+		},
+		{
+			"ShaderMapHash": "3878161EA4485439A1ACC2C6E1C9B338AB53D7F7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "1E2D061F0D1C65A5234481B32A0C7C50F91BD07B",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9455241F8CAF4E43E5BF66E5F38CF7E21C078816",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/MMaterials/M_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "47882B20844BE51D1A1F2D9AF2EF9EF828DB3AA6",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/MMaterials/M_Foliage"
+			]
+		},
+		{
+			"ShaderMapHash": "9B786F24F1D9F77F40E53EBC736C819DD275F983",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "646D7C24A04CED1EDFE90950A2F6607E8984052D",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR"
+			]
+		},
+		{
+			"ShaderMapHash": "12ABC024DEEE9A5DF6AEA1DC0B7D2FD5903A294E",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/MMaterials/M_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "C62C7F27C2E62D78DD6A64F5CD351817A80B2B0F",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "7E689527BB5694AF35E8F4FAB32FA8C4A0C7F004",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E9642E2A1775BCE739EB240C97FB8A426EF6DCE9",
+			"Assets": [
+				"/ARUtilities/Materials/M_DepthColoration"
+			]
+		},
+		{
+			"ShaderMapHash": "AA941432B8067485F7F84BC009DF6ED8FC3C106E",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "D9EF9F34031472DA35B9FABE051BA223A9F228D5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "34081B3595792A4121B61EC1224890964BC2ED1C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "53775335D9580A3EF16D31CE62847407A6E7F759",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Lianas"
+			]
+		},
+		{
+			"ShaderMapHash": "73FF61352F05F02901EBC48859D855628EFA736E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9E79CD3DA3DB8AFB7F599FA5CE689844A3A190C4",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE9A74146A96734CBF29EDE0FB48E4F864BCC34",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9AACCD42FD28B73FFAD733ED7CACCED568E53D1E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "9FE35A46E3277B6028FE41711E37C951182369D4",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45963D487E8D73E4BE3C4579F73332E8A623D2A7",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5523834A8CBC9A98C99C50BD238A1959CC5D0181",
+			"Assets": [
+				"/AppleARKit/M_OcclusionOverlay"
+			]
+		},
+		{
+			"ShaderMapHash": "963FB24B08CD280AF0DB11C8C85E113DD2C5811C",
+			"Assets": [
+				"/Game/ParagonMinions/Characters/Minions/Down_Minions/Materials/Ranged/M_Minion_Ranged"
+			]
+		},
+		{
+			"ShaderMapHash": "AE361D4C1ECF114779A9784DE901721DA9F3E458",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "AC2E1A4EA86BCA7494A19CAE5B7E0BFA08B69F89",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Rocks/MI_Rock_Jungle_Medium"
+			]
+		},
+		{
+			"ShaderMapHash": "F3B3424F332B70614A96FA15049E553F05D21B51",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "0F85AC4FDAB44DA20E54A4F9501B8B9E89F50CC5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BAE2C7504CC371026DBA5A8F17DB19F87863CB6E",
+			"Assets": [
+				"/ARUtilities/Materials/M_ScreenSpacePassthroughCamera"
+			]
+		},
+		{
+			"ShaderMapHash": "3335EF50D3D9460AAB5D2D01CDF062DF81024F01",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "DEBB31517A42A33ED638A0A889CDCA06D1A6AFB0",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "79D0A054C2452B8B978BAE1D7FD1F48C1297E452",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "80E1C65633B3272273973DDE3D2A05D5464A09C7",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Ground/MI_Soil"
+			]
+		},
+		{
+			"ShaderMapHash": "51767B57051430F8AFE38769B0EAA3807A845517",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "E3C2365837AF474971FE912ED6E602F51914C5FC",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Rocks/MI_RockBiome_Jungle"
+			]
+		},
+		{
+			"ShaderMapHash": "769D635ACE5F8AE0F65186B36AD19491A192D696",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/MMaterials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "4C11665BAF182C49F057F57D6B22D1869A24E67D",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "BF6FB95BED278BC7041B4D73DC375FDEEA18B1B6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5F77185C664BA57FAE13A0A83C19F160CE417FCD",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "03DB895F98306902283C5E648BC8E54CCB663BFA",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "628FD56457F5FB87CA6ED3D6CC35C22C46F4020B",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "FC9F3C6664C99D2E15493E0751B650A86628EB80",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "08B09B66B22090BDCFD57555ABC7D15666A64AF9",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "216C21672195A4CEFE591BE5D0A8CFF29956C8B3",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "A6DA32696C6D49BB6FADC4685C95908F9D91BA8A",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D926566979F8A660827B0923771A68B945B11A30",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A889396BFC94E6E2D4461EE8F33FAE7A2B1ABECE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "E82A766B8C9E3C6351622B782F899A73051E3D79",
+			"Assets": [
+				"/Game/ParagonMinions/Characters/Buff/Buff_White/Materials/M_Buff_White"
+			]
+		},
+		{
+			"ShaderMapHash": "CE4F4877152AF724A24B69F062AEFBF38E647977",
+			"Assets": [
+				"/AppleARKit/M_SceneDepthOcclusion"
+			]
+		},
+		{
+			"ShaderMapHash": "20DA6A773A5B68DD2E18D423D90FC3B5B71E9FA0",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/MMaterials/M_Tree_Trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "F8DC5578C45543FBE23B9B6B607E3EB3CE791F4F",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A1CB927811DA9869895DDA03CDE16A6611B985FA",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "85EB6C7AE552EAD0FE9A6493185D5683A7FB837F",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "82618B7B1A4F661BB746654CBDE362B1A200C8C1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "B13B068039EF4938F35E551E9025BCB3A1D9CE66",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "020C2582062043D4086339B66FEEB41A03061894",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "A1703282E5BFFA945DA1A8068529CECB4177BCBD",
+			"Assets": [
+				"/ARUtilities/Materials/M_PassthroughCamera"
+			]
+		},
+		{
+			"ShaderMapHash": "04365583795CF0949A4E5F9908E52BE5FA3BB2B3",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Rocks/MI_RockBiome_Jungle"
+			]
+		},
+		{
+			"ShaderMapHash": "530C43858ACEBAF73291F90E376BA0C09EE0D683",
+			"Assets": [
+				"/AppleARKit/MI_DepthOcclusionOverlay"
+			]
+		},
+		{
+			"ShaderMapHash": "27B32A86C56D9BC65A485A80B83B78843D26A5C9",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "9C69178E89FA456B3EB4E95C30A83CA30A3208F8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "13785A94EAEA9CFAB8573BB33DBF462323AD3D08",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "63E18B9690C5FA2DB0F709728038141FB5701C6B",
+			"Assets": [
+				"/Game/ControlRig/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "79EE379B2C6E20CE7F03D89E896D3DA83C946450",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A3B6DA9C195D9CDB5ACF823D185ED86FFD3EE6DE",
+			"Assets": [
+				"/Game/Fab/Basic_Metal_Sword/Sword"
+			]
+		},
+		{
+			"ShaderMapHash": "5453459D5FC988DC80EB0A7A8E5DEA6215F3E9E5",
+			"Assets": [
+				"/Game/ParagonMinions/Characters/Minions/Down_Minions/Materials/Ranged/M_Minion_Ranged"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE45B9DBA599B96F48C7E323FFBEC299B54121F",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "15192B9EAC55F6A41CB807B6F653A3279C066C81",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6F479EA0D9A8C19D6F2010231A8BB1203267B4BB",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "062604A2BBD3DC30C3283AA487DD58B0B169576B",
+			"Assets": [
+				"/Game/ParagonMinions/Characters/Buff/Buff_White/Materials/M_Buff_White"
+			]
+		},
+		{
+			"ShaderMapHash": "FADD0CA4D1DA78A3E611422B2C085A00A497CDFA",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Lianas"
+			]
+		},
+		{
+			"ShaderMapHash": "3C6447A69EFFA4AEC172B48B3B6994710D7F9A68",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "E770FAA6A741A92614A0D704CD324E6972AA6877",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D5BA6DAA70625DE0B173C75E990551535AE8B1F5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "A0E5CDAA7D097C6E56241D9573A8F05843EADC76",
+			"Assets": [
+				"/ARUtilities/Materials/MI_ScreenSpacePassthroughCameraExternalTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "0E50C1AB6A71E360AF916D3BE4E63B62C3F4CDDF",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9220ADAC5EBCC7452DB04881C15F4DF58A25927D",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "30F49BAF5733DB34FC3E029E2BBBB4E362A61346",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "365BB3B0A645E600BACAF02AE7B03F936F78C78D",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C70D09B126F304BFAAC62D1EE8D763DF9265DA81",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "85CB43B2F3F5D07D89E9C5015EF48285039EF8A4",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "36A079B243689D6FF5B949D5AE898CDBE6FF70A5",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Rocks/MI_Rock_Jungle_Large"
+			]
+		},
+		{
+			"ShaderMapHash": "5F11A6B2D29FD7010496863763B7BF64422A0793",
+			"Assets": [
+				"/Game/ControlRig/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "E4DFABB3AF9FCA2EBFF9AAD2388DC48B2ECA856E",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "43ACBBB5965C8D55D5037C58F0B16CE1E3D0F3EE",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6EFB8AB7655E4A6171E799EE30BD1CACD0F1E4D4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "90C8CAB77AF728515DFA32BB84E830C08BBF9952",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9C46CCBAB6B88003208F30C17CD538615AB12388",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_Waterlily"
+			]
+		},
+		{
+			"ShaderMapHash": "6A35CABBA849DE189E57EDA310448EC124D4EB8D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B21F09BEC571449B1783DE0E7750D59B40F8D692",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "D7CC3BC0790FE887512427AE40D1B1417B9EA9B5",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "16BB25C623773AFE0A32CD3838D82BD2CA4B29F8",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Ground/MI_Water_Jungle"
+			]
+		},
+		{
+			"ShaderMapHash": "D457C5C631A20D19936BC0ACFD13D97DAC4F17DC",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialMeter"
+			]
+		},
+		{
+			"ShaderMapHash": "2A63F6C6CD4EF6474F977C37B836BA66E358F192",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "7CE848C796BD951227EBBFFCC701BED7D6F292A7",
+			"Assets": [
+				"/Game/ParagonMinions/Characters/Buff/Buff_White/Materials/M_Buff_White"
+			]
+		},
+		{
+			"ShaderMapHash": "D91E13C8A7264DC34E914DB4C499A32CC85653D1",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Ground/MI_Soil"
+			]
+		},
+		{
+			"ShaderMapHash": "86CDDBCA95BDE81099B0254E63214379A082B1F0",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "5B3AD8CB19BAA99952225AD1CFABBB0B7261A19A",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Lianas"
+			]
+		},
+		{
+			"ShaderMapHash": "F56B4ACC4AE4D2005975FB4B2E1AF9AE029A1406",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "09C853CD6138D5B8849B40CD233B35787D4D7ECC",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "153838CE95FB9D835D8747AB7692609598DD34A8",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "3E1D76CF3B9466FFE0AAAAF6D983CDD9CC4C5C9D",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Ground/MI_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "2EBFA3D58C8B647F12BB573DCCC8297AE621E8EE",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "25F181D6DE8EE7BD0EBCBBFC9754A28FC5FE1D33",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_Bush1"
+			]
+		},
+		{
+			"ShaderMapHash": "C58A43D72EC3C8527D0D5C8B00AA44EB5F0C7F73",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6E4B94D86F18B18EAB43952053D0B6CE404D262D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A12726DA6F00AFFAFB46F06CD316CD48D28F50D2",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "77039DDBA871F5996128403026E5EB16FFB2E193",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "A09025DD2A12943C6232AFF2E0FFB2853E9A4E24",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Rocks/MI_Rock_Jungle_Large"
+			]
+		},
+		{
+			"ShaderMapHash": "5CA367DD4E5A0EB34A520C8DF6DCE174C5BF2240",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/MMaterials/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "5A1E71DF32C12180651CA024D6B5FCD5B7425AED",
+			"Assets": [
+				"/Game/ARpgFps/Characters/Enemy/M_EnemyTests/_Generated_/5Y1LEJCBBERLK49N8UTZ1J72G"
+			]
+		},
+		{
+			"ShaderMapHash": "A92FEEE0A152B452AF78D4D0924A139C9F51B295",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "1CA37AE23818756BBD7ABEAD5946C7CFB98725E4",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/MMaterials/M_Foliage"
+			]
+		},
+		{
+			"ShaderMapHash": "02ADF9E4ECE9C331F85ABCFA4F9DDE77142FD438",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/MMaterials/M_Tree_Trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "131D17E5CF9F38E4A91ADAF50FC111BFD9BD12AE",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_Bush1"
+			]
+		},
+		{
+			"ShaderMapHash": "213A57E86DF49975321FCBDF039702640230860A",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "433C62E805C23F5267E2B3FEB1FE607F2F506423",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "6B5B2DECE1E9B817E4FC67D2E1F454F0BDE88A50",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7A3BEDEDD0182571C8DBF314E63FE1CD1F0098BB",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A44799F1257FDC62D53039D098BC3A4B3A7BEADB",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1F721DF416921B1ABAD96D51A1BAFEE995A5F3CC",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_BroadLeaf1_Trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "6C769FF51965939BB9F06FDD19BAD9C9B6EAE7C6",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0832FFF6BCD2C53502C668EE2EA81CF786E3734E",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
+			]
+		},
+		{
+			"ShaderMapHash": "09A066F8E92E49156160591E4DF836673B74B814",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Foliage/Jungle/MI_Jungle_Waterlily"
+			]
+		},
+		{
+			"ShaderMapHash": "FBF7ABFBBB39E89B2E9F6D07C4CC0C82842CC4E3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E4CB38FD76796D926D3F71D31789AF9D8EA1763F",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "B45D02FFDC13C9B9DD8DE0A5ED5AE6E7AB02F008",
+			"Assets": [
+				"/Game/ScifiJungle/Materials/Nature/Rocks/MI_Rock_Jungle_Medium"
+			]
+		},
+		{
+			"ShaderMapHash": "EBA9FAFF75642717AAF22DB518C4F716C178F9B7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		}
+	]
+}
