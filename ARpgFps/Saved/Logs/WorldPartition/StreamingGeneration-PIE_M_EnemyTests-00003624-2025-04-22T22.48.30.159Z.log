@@ -1,0 +1,406 @@
+[+] Containers:
+ |- [+] Container: /Game/ARpgFps/Characters/Enemy/M_EnemyTests
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:03854CDF4E5281D6DD174DB062ADED4B NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1642011766 Label:SM_Jungle_Bush3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1755.549 Y=-140.090 Z=148.727), Max=(X=2076.536 Y=264.951 Z=363.782) RuntimeBounds:IsValid=true, Min=(X=1755.549 Y=-140.090 Z=148.727), Max=(X=2076.536 Y=264.951 Z=363.782) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:0D372A4949A9A6B0C8BB659C11D3ADFE NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1483261573 Label:SM_Soil_Steep5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2122.217 Y=1085.109 Z=-107.850), Max=(X=4232.899 Y=3460.694 Z=1093.976) RuntimeBounds:IsValid=true, Min=(X=2122.217 Y=1085.109 Z=-107.850), Max=(X=4232.899 Y=3460.694 Z=1093.976) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:115ABEA34F1820AEC62589BFE5D81979 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA315502_1459778880 Label:SM_Soil_Steep1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-4556.569 Y=-3503.834 Z=-99.041), Max=(X=1457.360 Y=2981.462 Z=599.442) RuntimeBounds:IsValid=true, Min=(X=-4556.569 Y=-3503.834 Z=-99.041), Max=(X=1457.360 Y=2981.462 Z=599.442) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:1D0D66314FCF6725B15834A07359AEA8 BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEA235602_2102900498 Label:BP_SwordEnemy10 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-265.411 Y=350.000 Z=147.867), Max=(X=180.000 Y=590.677 Z=387.867) RuntimeBounds:IsValid=true, Min=(X=-265.411 Y=417.712 Z=166.066), Max=(X=-80.747 Y=590.677 Z=369.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:1D3D26F04B6DC10BEFB5B69E5CF914C8 NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-128.000 Z=-128.000), Max=(X=128.000 Y=128.000 Z=128.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1.000 Y=-1.000 Z=-1.000), Max=(X=1.000 Y=1.000 Z=1.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1EF3A20F4F98F2ABF6C2CDACEC779468 BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEA295602_1437375615 Label:BP_SwordEnemy12 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=359.589 Y=310.000 Z=137.867), Max=(X=805.000 Y=550.677 Z=377.867) RuntimeBounds:IsValid=true, Min=(X=359.589 Y=377.712 Z=156.066), Max=(X=544.253 Y=550.677 Z=359.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-128.000 Z=-128.000), Max=(X=240.000 Y=128.000 Z=128.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:364103094F5E8154C18F348B8509422B NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1686657577 Label:SM_Medium_Rock_3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=6178.341 Y=251.912 Z=-46.221), Max=(X=7928.768 Y=1911.457 Z=2450.320) RuntimeBounds:IsValid=true, Min=(X=6178.341 Y=251.912 Z=-46.221), Max=(X=7928.768 Y=1911.457 Z=2450.320) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:4979CA024315E697AE1882A8847BBD96 BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEA295602_1437379617 Label:BP_SwordEnemy13 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=594.589 Y=310.000 Z=137.867), Max=(X=1040.000 Y=550.677 Z=377.867) RuntimeBounds:IsValid=true, Min=(X=594.589 Y=377.712 Z=156.066), Max=(X=779.253 Y=550.677 Z=359.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:49E415C747929A0050C0AFA0E40866C2 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1771565581 Label:SM_Rock_Wall_1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1443.869 Y=-1479.021 Z=-1699.008), Max=(X=7710.530 Y=9311.640 Z=399.481) RuntimeBounds:IsValid=true, Min=(X=1443.869 Y=-1479.021 Z=-1699.008), Max=(X=7710.530 Y=9311.640 Z=399.481) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:4BD1EC684621AAD15C8A449D187AAAEF NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1501746574 Label:SM_Soil_Steep6 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=966.704 Y=911.727 Z=-107.850), Max=(X=3002.825 Y=2469.357 Z=1093.976) RuntimeBounds:IsValid=true, Min=(X=966.704 Y=911.727 Z=-107.850), Max=(X=3002.825 Y=2469.357 Z=1093.976) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:4CAC62D545BE39B7805DE8921C84B171 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1651845768 Label:SM_Jungle_Bush5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=385.549 Y=1474.910 Z=193.727), Max=(X=706.536 Y=1879.951 Z=408.782) RuntimeBounds:IsValid=true, Min=(X=385.549 Y=1474.910 Z=193.727), Max=(X=706.536 Y=1879.951 Z=408.782) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:595569BE43557F5ADC3DB9B8F40CF0EE NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1678061806 Label:SM_Medium_Rock_2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1888.452 Y=-1295.454 Z=80.791), Max=(X=2927.717 Y=-675.855 Z=554.225) RuntimeBounds:IsValid=true, Min=(X=1888.452 Y=-1295.454 Z=80.791), Max=(X=2927.717 Y=-675.855 Z=554.225) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:5EB9562843A464493AE3E7B30F9EFB22 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1604254764 Label:SM_Jungle_BroadLeaf3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=35.602 Y=-1450.867 Z=-242.662), Max=(X=2332.520 Y=784.393 Z=2723.657) RuntimeBounds:IsValid=true, Min=(X=35.602 Y=-1450.867 Z=-242.662), Max=(X=2332.520 Y=784.393 Z=2723.657) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:707D0D104A1A6DBFBBD050AD016E1BA7 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0 Label:LandscapeStreamingProxy_4_4_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=25200.000 Y=25200.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=25200.000 Y=25200.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:71D72841471AFBF1920B18AA5A648D96 BaseClass:/Game/ScifiJungle/Blueprints/Environment/Enviromental/Water/BP_JungleWater.BP_JungleWater_C NativeClass:/Script/Engine.Actor Name:BP_JungleWater_C_UAID_C87F54026AEA575802_1294247761 Label:BP_JungleWater SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1582.305 Y=-1767.695 Z=-3321.151), Max=(X=9547.695 Y=6197.695 Z=3621.151) RuntimeBounds:IsValid=true, Min=(X=1582.305 Y=-1767.695 Z=-3321.151), Max=(X=9547.695 Y=6197.695 Z=3621.151) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:796E4F6E43A5EFEBD63048B656B77ADB NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1679978576 Label:SM_Cave_Dripstone2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=5858.715 Y=1368.207 Z=71.641), Max=(X=6051.283 Y=1561.793 Z=245.910) RuntimeBounds:IsValid=true, Min=(X=5858.715 Y=1368.207 Z=71.641), Max=(X=6051.283 Y=1561.793 Z=245.910) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:7CB1C48E4384F49E75DE5FA90CB3A868 BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEAEA5502_1676654440 Label:BP_SwordEnemy9 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1174.589 Y=-1385.000 Z=147.867), Max=(X=1620.000 Y=-1144.323 Z=387.867) RuntimeBounds:IsValid=true, Min=(X=1174.589 Y=-1317.288 Z=166.066), Max=(X=1359.253 Y=-1144.323 Z=369.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:83C24E084710C6ADC0F6A990692DFE96 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1639708575 Label:SM_Soil_Steep7 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=5624.358 Y=1577.926 Z=34.122), Max=(X=8507.237 Y=6941.525 Z=1302.547) RuntimeBounds:IsValid=true, Min=(X=5624.358 Y=1577.926 Z=34.122), Max=(X=8507.237 Y=6941.525 Z=1302.547) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:908EBE03466AEA0F9FE7FFB40DD2AD5E BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEA235602_2106870528 Label:BP_SwordEnemy11 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-30.411 Y=350.000 Z=147.867), Max=(X=415.000 Y=590.677 Z=387.867) RuntimeBounds:IsValid=true, Min=(X=-30.411 Y=417.712 Z=166.066), Max=(X=154.253 Y=590.677 Z=369.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=3235.149 Y=863.516 Z=351.215), Max=(X=3603.149 Y=1119.516 Z=607.215) RuntimeBounds:IsValid=true, Min=(X=3435.149 Y=951.516 Z=387.215), Max=(X=3515.149 Y=1031.516 Z=571.215) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:9A41BA6C4847EE28241FE9B0F2C601F5 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1538186762 Label:SM_Jungle_BroadLeaf2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2709.398 Y=-1450.867 Z=167.338), Max=(X=-412.480 Y=784.393 Z=3133.657) RuntimeBounds:IsValid=true, Min=(X=-2709.398 Y=-1450.867 Z=167.338), Max=(X=-412.480 Y=784.393 Z=3133.657) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:9CBBDFD8486812AAE8770CB093DB7460 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0 Label:LandscapeStreamingProxy_3_4_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-25200.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=25200.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-25200.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=25200.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:9E3F95CF4EC579AADF0104A342A1B8DC NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1722127579 Label:SM_Medium_Rock_5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=5289.398 Y=568.951 Z=54.080), Max=(X=6529.532 Y=1339.980 Z=611.998) RuntimeBounds:IsValid=true, Min=(X=5289.398 Y=568.951 Z=54.080), Max=(X=6529.532 Y=1339.980 Z=611.998) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:A10C7C9546D635D74C6CE1B478BA7163 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1735833580 Label:SM_Pillar_Rock_1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=3387.404 Y=-704.734 Z=-1439.613), Max=(X=4962.132 Y=1036.139 Z=3344.617) RuntimeBounds:IsValid=true, Min=(X=3387.404 Y=-704.734 Z=-1439.613), Max=(X=4962.132 Y=1036.139 Z=3344.617) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:ABE7228E4606EEF0C8E17BA483C40F3F NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1403030565 Label:SM_Soil_Flat6 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-329.015 Y=-1873.486 Z=-102.444), Max=(X=4063.365 Y=2578.267 Z=193.662) RuntimeBounds:IsValid=true, Min=(X=-329.015 Y=-1873.486 Z=-102.444), Max=(X=4063.365 Y=2578.267 Z=193.662) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:AF39420846DD8182AC5B71A62DB77845 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1708553578 Label:SM_Medium_Rock_4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=4753.341 Y=-908.088 Z=-13.698), Max=(X=6503.768 Y=751.457 Z=1813.043) RuntimeBounds:IsValid=true, Min=(X=4753.341 Y=-908.088 Z=-13.698), Max=(X=6503.768 Y=751.457 Z=1813.043) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:B326D24C49C9ACCFF51A6FBE9CA51F79 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1349347564 Label:SM_Soil_Flat2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1850.404 Y=740.553 Z=-63.264), Max=(X=2607.592 Y=2645.208 Z=252.617) RuntimeBounds:IsValid=true, Min=(X=-1850.404 Y=740.553 Z=-63.264), Max=(X=2607.592 Y=2645.208 Z=252.617) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:B800541946F7DF6AF80242BA2FCB90CC NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA315502_1332873879 Label:SM_Soil_Flat5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-914.015 Y=-3728.486 Z=-102.444), Max=(X=3478.365 Y=723.267 Z=193.662) RuntimeBounds:IsValid=true, Min=(X=-914.015 Y=-3728.486 Z=-102.444), Max=(X=3478.365 Y=723.267 Z=193.662) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:C73E485F4F0AE0D38E5972AB293FF067 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1434305566 Label:SM_Soil_Steep3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=3154.896 Y=-366.776 Z=-162.850), Max=(X=5115.311 Y=1087.026 Z=1038.976) RuntimeBounds:IsValid=true, Min=(X=3154.896 Y=-366.776 Z=-162.850), Max=(X=5115.311 Y=1087.026 Z=1038.976) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-5728.000 Y=-178.000 Z=-6978.000), Max=(X=-5472.000 Y=78.000 Z=-6722.000) RuntimeBounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D672BA9E47371D00A48F7390CA8187AF NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1473272572 Label:SM_Soil_Steep4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2174.335 Y=2215.388 Z=-567.506), Max=(X=5694.113 Y=6906.105 Z=2568.263) RuntimeBounds:IsValid=true, Min=(X=2174.335 Y=2215.388 Z=-567.506), Max=(X=5694.113 Y=6906.105 Z=2568.263) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:DCE7967A4787C8F26F09DAA7C8C87C46 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1609983765 Label:SM_Jungle_BroadLeaf4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1041.858 Y=-1327.143 Z=-176.706), Max=(X=3074.630 Y=651.063 Z=2448.487) RuntimeBounds:IsValid=true, Min=(X=1041.858 Y=-1327.143 Z=-176.706), Max=(X=3074.630 Y=651.063 Z=2448.487) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:DD1C1B704B6489D41C8E0BB139B44987 NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_C87F54026AEA5E5802_1082289972 Label:NavMeshBoundsVolume SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1906.507 Y=-2794.532 Z=-818.934), Max=(X=2673.336 Y=2605.462 Z=561.065) RuntimeBounds:IsValid=true, Min=(X=-1906.507 Y=-2794.532 Z=-818.934), Max=(X=2673.336 Y=2605.462 Z=561.065) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:EA8F467B40D0639668FE41854711BF4B NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1602298763 Label:SM_Jungle_Bush2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1755.549 Y=744.910 Z=148.727), Max=(X=2076.536 Y=1149.951 Z=363.782) RuntimeBounds:IsValid=true, Min=(X=1755.549 Y=744.910 Z=148.727), Max=(X=2076.536 Y=1149.951 Z=363.782) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:EF4600854BE20EE415064F8F02C245C0 NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_C87F54026AEAC55202-Default Label:RecastNavMesh-Default SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:FA1458C241B62BB813CDD3B1A6D46DB9 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1646281767 Label:SM_Jungle_Bush4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2250.549 Y=-615.090 Z=328.727), Max=(X=2571.536 Y=-210.049 Z=543.782) RuntimeBounds:IsValid=true, Min=(X=2250.549 Y=-615.090 Z=328.727), Max=(X=2571.536 Y=-210.049 Z=543.782) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:03854CDF4E5281D6DD174DB062ADED4B NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1642011766 Label:SM_Jungle_Bush3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1755.549 Y=-140.090 Z=148.727), Max=(X=2076.536 Y=264.951 Z=363.782) RuntimeBounds:IsValid=true, Min=(X=1755.549 Y=-140.090 Z=148.727), Max=(X=2076.536 Y=264.951 Z=363.782) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0D372A4949A9A6B0C8BB659C11D3ADFE NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1483261573 Label:SM_Soil_Steep5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2122.217 Y=1085.109 Z=-107.850), Max=(X=4232.899 Y=3460.694 Z=1093.976) RuntimeBounds:IsValid=true, Min=(X=2122.217 Y=1085.109 Z=-107.850), Max=(X=4232.899 Y=3460.694 Z=1093.976) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:115ABEA34F1820AEC62589BFE5D81979 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA315502_1459778880 Label:SM_Soil_Steep1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-4556.569 Y=-3503.834 Z=-99.041), Max=(X=1457.360 Y=2981.462 Z=599.442) RuntimeBounds:IsValid=true, Min=(X=-4556.569 Y=-3503.834 Z=-99.041), Max=(X=1457.360 Y=2981.462 Z=599.442) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1D0D66314FCF6725B15834A07359AEA8 BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEA235602_2102900498 Label:BP_SwordEnemy10 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-265.411 Y=350.000 Z=147.867), Max=(X=180.000 Y=590.677 Z=387.867) RuntimeBounds:IsValid=true, Min=(X=-265.411 Y=417.712 Z=166.066), Max=(X=-80.747 Y=590.677 Z=369.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:1D3D26F04B6DC10BEFB5B69E5CF914C8 NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-128.000 Z=-128.000), Max=(X=128.000 Y=128.000 Z=128.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1.000 Y=-1.000 Z=-1.000), Max=(X=1.000 Y=1.000 Z=1.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:1EF3A20F4F98F2ABF6C2CDACEC779468 BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEA295602_1437375615 Label:BP_SwordEnemy12 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=359.589 Y=310.000 Z=137.867), Max=(X=805.000 Y=550.677 Z=377.867) RuntimeBounds:IsValid=true, Min=(X=359.589 Y=377.712 Z=156.066), Max=(X=544.253 Y=550.677 Z=359.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-128.000 Y=-128.000 Z=-128.000), Max=(X=240.000 Y=128.000 Z=128.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:364103094F5E8154C18F348B8509422B NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1686657577 Label:SM_Medium_Rock_3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=6178.341 Y=251.912 Z=-46.221), Max=(X=7928.768 Y=1911.457 Z=2450.320) RuntimeBounds:IsValid=true, Min=(X=6178.341 Y=251.912 Z=-46.221), Max=(X=7928.768 Y=1911.457 Z=2450.320) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:4979CA024315E697AE1882A8847BBD96 BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEA295602_1437379617 Label:BP_SwordEnemy13 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=594.589 Y=310.000 Z=137.867), Max=(X=1040.000 Y=550.677 Z=377.867) RuntimeBounds:IsValid=true, Min=(X=594.589 Y=377.712 Z=156.066), Max=(X=779.253 Y=550.677 Z=359.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:49E415C747929A0050C0AFA0E40866C2 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1771565581 Label:SM_Rock_Wall_1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1443.869 Y=-1479.021 Z=-1699.008), Max=(X=7710.530 Y=9311.640 Z=399.481) RuntimeBounds:IsValid=true, Min=(X=1443.869 Y=-1479.021 Z=-1699.008), Max=(X=7710.530 Y=9311.640 Z=399.481) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:4BD1EC684621AAD15C8A449D187AAAEF NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1501746574 Label:SM_Soil_Steep6 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=966.704 Y=911.727 Z=-107.850), Max=(X=3002.825 Y=2469.357 Z=1093.976) RuntimeBounds:IsValid=true, Min=(X=966.704 Y=911.727 Z=-107.850), Max=(X=3002.825 Y=2469.357 Z=1093.976) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:4CAC62D545BE39B7805DE8921C84B171 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1651845768 Label:SM_Jungle_Bush5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=385.549 Y=1474.910 Z=193.727), Max=(X=706.536 Y=1879.951 Z=408.782) RuntimeBounds:IsValid=true, Min=(X=385.549 Y=1474.910 Z=193.727), Max=(X=706.536 Y=1879.951 Z=408.782) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:595569BE43557F5ADC3DB9B8F40CF0EE NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1678061806 Label:SM_Medium_Rock_2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1888.452 Y=-1295.454 Z=80.791), Max=(X=2927.717 Y=-675.855 Z=554.225) RuntimeBounds:IsValid=true, Min=(X=1888.452 Y=-1295.454 Z=80.791), Max=(X=2927.717 Y=-675.855 Z=554.225) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:5EB9562843A464493AE3E7B30F9EFB22 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1604254764 Label:SM_Jungle_BroadLeaf3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=35.602 Y=-1450.867 Z=-242.662), Max=(X=2332.520 Y=784.393 Z=2723.657) RuntimeBounds:IsValid=true, Min=(X=35.602 Y=-1450.867 Z=-242.662), Max=(X=2332.520 Y=784.393 Z=2723.657) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:707D0D104A1A6DBFBBD050AD016E1BA7 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0 Label:LandscapeStreamingProxy_4_4_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=25200.000 Y=25200.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-100.000), Max=(X=25200.000 Y=25200.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:71D72841471AFBF1920B18AA5A648D96 BaseClass:/Game/ScifiJungle/Blueprints/Environment/Enviromental/Water/BP_JungleWater.BP_JungleWater_C NativeClass:/Script/Engine.Actor Name:BP_JungleWater_C_UAID_C87F54026AEA575802_1294247761 Label:BP_JungleWater SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1582.305 Y=-1767.695 Z=-3321.151), Max=(X=9547.695 Y=6197.695 Z=3621.151) RuntimeBounds:IsValid=true, Min=(X=1582.305 Y=-1767.695 Z=-3321.151), Max=(X=9547.695 Y=6197.695 Z=3621.151) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:796E4F6E43A5EFEBD63048B656B77ADB NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1679978576 Label:SM_Cave_Dripstone2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=5858.715 Y=1368.207 Z=71.641), Max=(X=6051.283 Y=1561.793 Z=245.910) RuntimeBounds:IsValid=true, Min=(X=5858.715 Y=1368.207 Z=71.641), Max=(X=6051.283 Y=1561.793 Z=245.910) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:7CB1C48E4384F49E75DE5FA90CB3A868 BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEAEA5502_1676654440 Label:BP_SwordEnemy9 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1174.589 Y=-1385.000 Z=147.867), Max=(X=1620.000 Y=-1144.323 Z=387.867) RuntimeBounds:IsValid=true, Min=(X=1174.589 Y=-1317.288 Z=166.066), Max=(X=1359.253 Y=-1144.323 Z=369.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:83C24E084710C6ADC0F6A990692DFE96 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1639708575 Label:SM_Soil_Steep7 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=5624.358 Y=1577.926 Z=34.122), Max=(X=8507.237 Y=6941.525 Z=1302.547) RuntimeBounds:IsValid=true, Min=(X=5624.358 Y=1577.926 Z=34.122), Max=(X=8507.237 Y=6941.525 Z=1302.547) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:908EBE03466AEA0F9FE7FFB40DD2AD5E BaseClass:/Game/ARpgFps/Characters/SwordEnemy/BP_SwordEnemy.BP_SwordEnemy_C NativeClass:/Script/Engine.Character Name:BP_SwordEnemy_C_UAID_C87F54026AEA235602_2106870528 Label:BP_SwordEnemy11 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-30.411 Y=350.000 Z=147.867), Max=(X=415.000 Y=590.677 Z=387.867) RuntimeBounds:IsValid=true, Min=(X=-30.411 Y=417.712 Z=166.066), Max=(X=154.253 Y=590.677 Z=369.668) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=3235.149 Y=863.516 Z=351.215), Max=(X=3603.149 Y=1119.516 Z=607.215) RuntimeBounds:IsValid=true, Min=(X=3435.149 Y=951.516 Z=387.215), Max=(X=3515.149 Y=1031.516 Z=571.215) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:9A41BA6C4847EE28241FE9B0F2C601F5 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1538186762 Label:SM_Jungle_BroadLeaf2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-2709.398 Y=-1450.867 Z=167.338), Max=(X=-412.480 Y=784.393 Z=3133.657) RuntimeBounds:IsValid=true, Min=(X=-2709.398 Y=-1450.867 Z=167.338), Max=(X=-412.480 Y=784.393 Z=3133.657) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:9CBBDFD8486812AAE8770CB093DB7460 NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0 Label:LandscapeStreamingProxy_3_4_0 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-25200.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=25200.000 Z=100.000) RuntimeBounds:IsValid=true, Min=(X=-25200.000 Y=0.000 Z=-100.000), Max=(X=0.000 Y=25200.000 Z=100.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:9E3F95CF4EC579AADF0104A342A1B8DC NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1722127579 Label:SM_Medium_Rock_5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=5289.398 Y=568.951 Z=54.080), Max=(X=6529.532 Y=1339.980 Z=611.998) RuntimeBounds:IsValid=true, Min=(X=5289.398 Y=568.951 Z=54.080), Max=(X=6529.532 Y=1339.980 Z=611.998) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:A10C7C9546D635D74C6CE1B478BA7163 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1735833580 Label:SM_Pillar_Rock_1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=3387.404 Y=-704.734 Z=-1439.613), Max=(X=4962.132 Y=1036.139 Z=3344.617) RuntimeBounds:IsValid=true, Min=(X=3387.404 Y=-704.734 Z=-1439.613), Max=(X=4962.132 Y=1036.139 Z=3344.617) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:ABE7228E4606EEF0C8E17BA483C40F3F NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1403030565 Label:SM_Soil_Flat6 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-329.015 Y=-1873.486 Z=-102.444), Max=(X=4063.365 Y=2578.267 Z=193.662) RuntimeBounds:IsValid=true, Min=(X=-329.015 Y=-1873.486 Z=-102.444), Max=(X=4063.365 Y=2578.267 Z=193.662) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:AF39420846DD8182AC5B71A62DB77845 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1708553578 Label:SM_Medium_Rock_4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=4753.341 Y=-908.088 Z=-13.698), Max=(X=6503.768 Y=751.457 Z=1813.043) RuntimeBounds:IsValid=true, Min=(X=4753.341 Y=-908.088 Z=-13.698), Max=(X=6503.768 Y=751.457 Z=1813.043) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:B326D24C49C9ACCFF51A6FBE9CA51F79 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1349347564 Label:SM_Soil_Flat2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1850.404 Y=740.553 Z=-63.264), Max=(X=2607.592 Y=2645.208 Z=252.617) RuntimeBounds:IsValid=true, Min=(X=-1850.404 Y=740.553 Z=-63.264), Max=(X=2607.592 Y=2645.208 Z=252.617) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:B800541946F7DF6AF80242BA2FCB90CC NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA315502_1332873879 Label:SM_Soil_Flat5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-914.015 Y=-3728.486 Z=-102.444), Max=(X=3478.365 Y=723.267 Z=193.662) RuntimeBounds:IsValid=true, Min=(X=-914.015 Y=-3728.486 Z=-102.444), Max=(X=3478.365 Y=723.267 Z=193.662) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:C73E485F4F0AE0D38E5972AB293FF067 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1434305566 Label:SM_Soil_Steep3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=3154.896 Y=-366.776 Z=-162.850), Max=(X=5115.311 Y=1087.026 Z=1038.976) RuntimeBounds:IsValid=true, Min=(X=3154.896 Y=-366.776 Z=-162.850), Max=(X=5115.311 Y=1087.026 Z=1038.976) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-5728.000 Y=-178.000 Z=-6978.000), Max=(X=-5472.000 Y=78.000 Z=-6722.000) RuntimeBounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:D672BA9E47371D00A48F7390CA8187AF NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA565802_1473272572 Label:SM_Soil_Steep4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2174.335 Y=2215.388 Z=-567.506), Max=(X=5694.113 Y=6906.105 Z=2568.263) RuntimeBounds:IsValid=true, Min=(X=2174.335 Y=2215.388 Z=-567.506), Max=(X=5694.113 Y=6906.105 Z=2568.263) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:DCE7967A4787C8F26F09DAA7C8C87C46 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1609983765 Label:SM_Jungle_BroadLeaf4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1041.858 Y=-1327.143 Z=-176.706), Max=(X=3074.630 Y=651.063 Z=2448.487) RuntimeBounds:IsValid=true, Min=(X=1041.858 Y=-1327.143 Z=-176.706), Max=(X=3074.630 Y=651.063 Z=2448.487) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:DD1C1B704B6489D41C8E0BB139B44987 NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_C87F54026AEA5E5802_1082289972 Label:NavMeshBoundsVolume SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1906.507 Y=-2794.532 Z=-818.934), Max=(X=2673.336 Y=2605.462 Z=561.065) RuntimeBounds:IsValid=true, Min=(X=-1906.507 Y=-2794.532 Z=-818.934), Max=(X=2673.336 Y=2605.462 Z=561.065) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:EA8F467B40D0639668FE41854711BF4B NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1602298763 Label:SM_Jungle_Bush2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=1755.549 Y=744.910 Z=148.727), Max=(X=2076.536 Y=1149.951 Z=363.782) RuntimeBounds:IsValid=true, Min=(X=1755.549 Y=744.910 Z=148.727), Max=(X=2076.536 Y=1149.951 Z=363.782) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:EF4600854BE20EE415064F8F02C245C0 NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_C87F54026AEAC55202-Default Label:RecastNavMesh-Default SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:FA1458C241B62BB813CDD3B1A6D46DB9 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54026AEA575802_1646281767 Label:SM_Jungle_Bush4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2250.549 Y=-615.090 Z=328.727), Max=(X=2571.536 Y=-210.049 Z=543.782) RuntimeBounds:IsValid=true, Min=(X=2250.549 Y=-615.090 Z=328.727), Max=(X=2571.536 Y=-210.049 Z=543.782) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-25200.000 Y=-3728.486 Z=-3321.151), Max=(X=25200.000 Y=25200.000 Z=3621.151)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ARpgFps/Characters/Enemy/M_EnemyTests
+----------------------------------------------------------------------------------------------------------------
+M_EnemyTests - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of M_EnemyTests Persistent Level
+ |- Always loaded Actor Count: 10 
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/D/22/IEHCRWA4KMQLJIMR23WGKP
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/6/I4/DAO93F783ZD2RZ3BJEFQ1G
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/D/JJ/IQRBPZ6Z8Y0NXF135ESFPN
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.NavMeshBoundsVolume_UAID_C87F54026AEA5E5802_1082289972
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/7/Y3/0IXE7IW0WS0LGOROJT4R47
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/9/WW/KXY384WMP7L251A21FQDU7
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.RecastNavMesh_UAID_C87F54026AEAC55202-Default
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/5/JG/BCZMSY6M0HYL3C1MC9U5CG
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/7/85/QSPQI6FHP0L214I3LBYY2P
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/8/2X/29WSX18C2IA4GW60CUWTC5
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/0/Y8/PL709ZZ63YLAJRGJX1VF70
+ |- Actor Path: /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/3/4T/M4MM2DQVF5WGGZP1BFMCK9
+
+----------------------------------------------------------------------------------------------------------------
+M_EnemyTests - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell M_EnemyTests_MainGrid_L0_X-1_Y0_Z0 (2V92MOIU84R6LS96ROZKYUK4X)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-25200.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=25200.000 Z=369.668)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.BP_SwordEnemy_C_UAID_C87F54026AEA235602_2102900498
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/A/L5/RC1A8W6WR3J9OY4K0UVCEB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 1D0D66314FCF6725B15834A07359AEA8
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/6/86/H9P70PGS1Q17EK09YDUHJ1
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9CBBDFD8486812AAE8770CB093DB7460
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell M_EnemyTests_MainGrid_L0_X0_Y0_Z-1 (3IMIC6QY7TXQDK5ZSN976Y1FJ)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=1443.869 Y=0.000 Z=-1699.008), Max=(X=7710.530 Y=9311.640 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=-25200.000), Max=(X=25200.000 Y=25200.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1771565581
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/B/34/9N04NOOCEIUINVV3AC9ADZ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 49E415C747929A0050C0AFA0E40866C2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell M_EnemyTests_MainGrid_L0_X0_Y-1_Z0 (4F5NS7GG32U0DBW4C4LYTOKH7)
+ |- Actor Count: 7
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=-3728.486 Z=0.000), Max=(X=6503.768 Y=0.000 Z=2723.657)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-25200.000 Z=0.000), Max=(X=25200.000 Y=0.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA575802_1678061806
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/2/MS/O21YN646N9IFOYV0D0YQDK
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 595569BE43557F5ADC3DB9B8F40CF0EE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA575802_1604254764
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/0/58/5KUVVL3MY3HI5R3B68LIVV
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5EB9562843A464493AE3E7B30F9EFB22
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.BP_SwordEnemy_C_UAID_C87F54026AEAEA5502_1676654440
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/0/V4/ZMY8NTONOEMKCE0BOLPB92
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7CB1C48E4384F49E75DE5FA90CB3A868
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1708553578
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/7/7Z/LH2RR60UOBIHU0JW9E60JG
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: AF39420846DD8182AC5B71A62DB77845
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA315502_1332873879
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/D/HZ/WQFEHRTDAMP6NUJOBJIS4B
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B800541946F7DF6AF80242BA2FCB90CC
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA575802_1609983765
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/8/KV/N09XRR4LM5PJQ401WRSJGB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DCE7967A4787C8F26F09DAA7C8C87C46
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA575802_1646281767
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/7/7P/KR8OA2W382YMIET2KYZDWM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: FA1458C241B62BB813CDD3B1A6D46DB9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell M_EnemyTests_MainGrid_L0_X0_Y0_Z0 (5Y1LEJCBBERLK49N8UTZ1J72G)
+ |- Actor Count: 19
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=25200.000 Y=25200.000 Z=3621.151)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=25200.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA575802_1642011766
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/C/ZQ/CMQRADV6ICCOENJ70YRF3A
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 03854CDF4E5281D6DD174DB062ADED4B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1483261573
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/9/00/Y6O199RAXE9N9NKRAXIWTJ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0D372A4949A9A6B0C8BB659C11D3ADFE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.BP_SwordEnemy_C_UAID_C87F54026AEA295602_1437375615
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/3/MS/P83XSS3EEADAT64RZBC8K8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 1EF3A20F4F98F2ABF6C2CDACEC779468
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1686657577
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/6/A7/36MG3T9ZZ8WV7AWF5VJN2A
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 364103094F5E8154C18F348B8509422B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.BP_SwordEnemy_C_UAID_C87F54026AEA295602_1437379617
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/9/O7/S868G1RNDS52M244OPRXK2
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4979CA024315E697AE1882A8847BBD96
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1501746574
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/1/DQ/R5ZU2V14NT7VKWEE14O4CT
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4BD1EC684621AAD15C8A449D187AAAEF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA575802_1651845768
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/8/8J/GIMNBVGSR7D582EC0Y2L1A
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4CAC62D545BE39B7805DE8921C84B171
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/6/Z5/UAZIQOMV34OGGZT1NA3JQH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 707D0D104A1A6DBFBBD050AD016E1BA7
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.BP_JungleWater_C_UAID_C87F54026AEA575802_1294247761
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/8/8W/Y9N4NCI3Y5CD8HNBK5NDTJ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 71D72841471AFBF1920B18AA5A648D96
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1679978576
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/9/QA/I3ZUFO4KQJM6RR179IM6GU
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 796E4F6E43A5EFEBD63048B656B77ADB
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1639708575
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/8/8Z/YKYA4CC8ZTAUGRPV1EJ769
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 83C24E084710C6ADC0F6A990692DFE96
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.BP_SwordEnemy_C_UAID_C87F54026AEA235602_2106870528
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/3/OU/PA1LM7P8HW40LMFSFFZBNY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 908EBE03466AEA0F9FE7FFB40DD2AD5E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1722127579
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/A/H8/BGRQ669SNOQ7XXQRILJMWL
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9E3F95CF4EC579AADF0104A342A1B8DC
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1735833580
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/9/51/DJ8DORZW25XPQJBV0FVNB4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A10C7C9546D635D74C6CE1B478BA7163
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1403030565
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/5/P7/4Z39ZQIQKGMNU1YXXRPX6R
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: ABE7228E4606EEF0C8E17BA483C40F3F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1349347564
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/3/K9/97F7DYGYRQNE0UUIM6WJ9K
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B326D24C49C9ACCFF51A6FBE9CA51F79
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1434305566
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/E/0T/W88LUTX5ZJAMO0USXQSPOQ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C73E485F4F0AE0D38E5972AB293FF067
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA565802_1473272572
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/E/JM/2FZ0T0QF0Q28LS5YXU8747
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D672BA9E47371D00A48F7390CA8187AF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA575802_1602298763
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/C/KT/CW3JGXRUQT541GC2KO8XEX
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EA8F467B40D0639668FE41854711BF4B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell M_EnemyTests_MainGrid_L0_X-1_Y-1_Z0 (DK8J4EWPSLCKHR8SEL99CVIZD)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-4556.569 Y=-3503.834 Z=0.000), Max=(X=0.000 Y=0.000 Z=3133.657)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA315502_1459778880
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/6/LC/N6C20BXG45J56K5OX2IMEJ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 115ABEA34F1820AEC62589BFE5D81979
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/ARpgFps/Characters/Enemy/M_EnemyTests.M_EnemyTests:PersistentLevel.StaticMeshActor_UAID_C87F54026AEA575802_1538186762
+ |   |-         Package: /Game/__ExternalActors__/ARpgFps/Characters/Enemy/M_EnemyTests/4/UN/TTJ7II9W5Q5QJZSNPXE5MM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9A41BA6C4847EE28241FE9B0F2C601F5
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
